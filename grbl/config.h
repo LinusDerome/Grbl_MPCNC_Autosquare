@@ -68,11 +68,11 @@
 #endif
 #if N_AXIS > 3
   #define AXIS_4 3
-  #define AXIS_4_NAME 'X' // Letter of axis number 4
+  #define AXIS_4_NAME 'Y' // Letter of axis number 4
 #endif
 #if N_AXIS > 4
   #define AXIS_5 4
-  #define AXIS_5_NAME 'Y' // Letter of axis number 5
+  #define AXIS_5_NAME 'Z' // Letter of axis number 5
 #endif
 #if N_AXIS > 5
   #define AXIS_6 5
